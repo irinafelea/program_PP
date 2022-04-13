@@ -1,31 +1,31 @@
 30
-1 Canalul_1
-2 Canalul_2
-3 Canalul_3
-4 Canalul_4
-5 Canalul_5
-6 Canalul_6
-7 Canalul_7
-8 Canalul_8
-9 Canalul_9
-10 Canalul_10
-11 Canalul_11
-12 Canalul_12
-13 Canalul_13
-14 Canalul_14
-15 Canalul_15
-16 Canalul_16
-17 Canalul_17
-18 Canalul_18
-19 Canalul_19
-20 Canalul_20
-21 Canalul_21
-22 Canalul_22
-23 Canalul_23
-24 Canalul_24
-25 Canalul_25
-26 Canalul_26
-27 Canalul_27
-28 Canalul_28
-29 Canalul_29
-30 Canalul_30
+#00001 Canalul_x 2.62 4
+#00002 Canalul_2 0.00 0
+#00003 Canalul_3 0.00 0
+#00004 Canalul_4 2.56 1
+#00005 Canalul_5 3.78 1
+#00006 Canalul_6 0.00 0
+#00007 Canalul_7 0.00 0
+#00008 Canalul_8 0.00 0
+#00009 Canalul_9 0.00 0
+#00010 Canalul_10 0.00 0
+#00011 Canalul_11 0.00 0
+#00012 Canalul_12 0.00 0
+#00013 Canalul_13 0.00 0
+#00014 Canalul_14 0.00 0
+#00015 Canalul_15 0.00 0
+#00016 Canalul_16 0.00 0
+#00017 Canalul_17 0.00 0
+#00018 Canalul_18 0.00 0
+#00019 Canalul_19 0.00 0
+#00020 Canalul_20 0.00 0
+#00021 Canalul_21 0.00 0
+#00022 Canalul_22 0.00 0
+#00023 Canalul_23 0.00 0
+#00024 Canalul_24 0.00 0
+#00025 Canalul_25 0.00 0
+#00026 Canalul_26 0.00 0
+#00027 Canalul_27 0.00 0
+#00028 Canalul_28 0.00 0
+#00029 Canalul_29 0.00 0
+#00030 Canalul_30 0.00 0
